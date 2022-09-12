@@ -1,0 +1,20 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "My path to learning Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolumaestro/learning-node.git"
+  },
+  "author": "Tolulope Soetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolumaestro/learning-node/issues"
+  },
+  "homepage": "https://github.com/Tolumaestro/learning-node#readme"
+}
